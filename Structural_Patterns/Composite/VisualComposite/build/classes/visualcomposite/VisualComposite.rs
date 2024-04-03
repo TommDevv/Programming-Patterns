@@ -1,0 +1,13 @@
+practica_composite.VisualComposite
+practica_composite.Practica_composite
+practica_composite.VisualComposite$1
+practica_composite.VisualComposite$3
+practica_composite.VisualComposite$2
+practica_composite.VisualComposite$9
+practica_composite.VisualComposite$8
+practica_composite.VisualComposite$10
+practica_composite.VisualComposite$5
+practica_composite.VisualComposite$4
+practica_composite.VisualComposite$7
+practica_composite.VisualComposite$11
+practica_composite.VisualComposite$6
